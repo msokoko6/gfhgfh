@@ -1,18 +1,18 @@
 ﻿
 
 
-token=NDg4ODMxNzIzNzk5NDQ1NTA1.DtCWDQ.4fQxasIjGPx3h-LI970omSZ5Ko0
+token=
 
 
 owner=290908670529896448
 
 
-prefix=z
+prefix=r
 
 
-game=zhelp | zplay
+game=rhelp | rplay
 
-status=DND
+status=ONLINE
 
 
 // If you set this to true, the bot will list the title of the song it is currently playing in its
